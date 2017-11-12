@@ -1,1 +1,6 @@
 [!Doctype Css]
+
+.jumbotron {
+  padding-top: 100px;
+  min-height: 600px;
+  margin-bottom: 80px;
